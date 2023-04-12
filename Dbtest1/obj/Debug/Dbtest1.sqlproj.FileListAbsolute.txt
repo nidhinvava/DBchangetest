@@ -1,0 +1,10 @@
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\bin\Debug\Dbtest1.dacpac
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\bin\Debug\Dbtest1.dll
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\bin\Debug\Dbtest1.pdb
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\obj\Debug\Dbtest1.sqlproj.AssemblyReference.cache
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\obj\Debug\Model.xml
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\obj\Debug\refactor.xml
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\obj\Debug\postdeploy.sql
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\obj\Debug\predeploy.sql
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\obj\Debug\Dbtest1.dll
+C:\Dell_old\Pers\Visualstudio_projects\Dbtest1\Dbtest1\Dbtest1\obj\Debug\Dbtest1.pdb
